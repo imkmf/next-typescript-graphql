@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "next": "^7.0.1",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  },
+  "name": "next-typescript-graphql",
+  "version": "0.1.0",
+  "description": "A next.js template with TypeScript and Apollo GraphQL support included",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imkmf/next-typescript-graphql.git"
+  },
+  "keywords": [
+    "nextjs",
+    "typescript",
+    "react",
+    "graphql",
+    "apollo"
+  ],
+  "author": "Kristian Freeman <kristian@bytesized.xyz>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imkmf/next-typescript-graphql/issues"
+  },
+  "homepage": "https://github.com/imkmf/next-typescript-graphql#readme"
+}
